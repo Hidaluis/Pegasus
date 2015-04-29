@@ -1,0 +1,14 @@
+body{
+	background-color: #469ed9;
+}
+
+h1 {
+	text-align: center;
+	font-family: "Helvetica"
+}
+.caja{
+	height: 300px;
+	width: 400px;
+	background-color: #d95d1f;
+	margin: 0 auto;
+}
